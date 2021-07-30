@@ -1,15 +1,20 @@
 # Note Taker
 
 ## Project Description
+We all have a million things going on and need a one stop place to keep track of activites. This app will allow the user to create multiple notes or to do lists making their lives more organized. While building this app I discovered that having accurtate file paths is crucial to functionality and had to work through many functionality issues because of incorrect paths. As well as the importance of server.js files for app functionality. 
 
+
+To use the app for yourself [click here](https://boiling-reaches-05189.herokuapp.com/)
 
 ## Project Example 
-https://user-images.githubusercontent.com/80845315/127671558-82d44b43-735b-4b93-9771-a4a4e52562b6.mp4
+To begin complying notes click "Get Started"
+![](Assets/pic1.png)
 
-## Installation
+You will see notes already created in the left column. To create a new note click the "+" sign.
+![](Assets/pic2.png)
 
-
-## Usage
+Begin typing new note. To save click the floppy disk icon. The note will then appear in the left column.
+![](Assets/pic3.png)
 
 
 ## Credits
